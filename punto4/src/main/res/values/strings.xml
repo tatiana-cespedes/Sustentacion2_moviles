@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Punto4</string>
+    <string-array name="Ciudades">
+        <item>Ciudad de nacimiento</item>
+        <item>Armenia</item>
+        <item>Barranquilla</item>
+        <item>Bucaramanga</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Medellin</item>
+
+
+    </string-array>
+
+</resources>
